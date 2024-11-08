@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Ingeniería de Datos e IA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Mi Nombre</h1>
+        <p>Ingeniero de Datos | Especialista en Inteligencia Artificial | Soluciones de Big Data</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">Sobre mí</a></li>
+            <li><a href="#projects">Proyectos</a></li>
+            <li><a href="#skills">Habilidades</a></li>
+            <li><a href="#contact">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>Sobre Mí</h2>
+        <p>Soy un ingeniero de datos con experiencia en el diseño, implementación y optimización de infraestructuras de datos para inteligencia artificial y big data. Mi objetivo es transformar datos en soluciones prácticas que impulsen el éxito empresarial a través de modelos de aprendizaje automático y tecnologías de big data.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <div class="project">
+            <h3>Pipeline de Ingesta de Datos para Big Data</h3>
+            <p>Diseñé y optimicé un pipeline de ingesta de datos en tiempo real utilizando Apache Kafka y Apache Spark, logrando procesar millones de eventos diarios y brindando datos accesibles para equipos de análisis y modelado.</p>
+        </div>
+        <div class="project">
+            <h3>Modelo Predictivo de Mantenimiento para IoT</h3>
+            <p>Implementé un sistema de IA para predecir fallos en dispositivos IoT utilizando técnicas de Machine Learning supervisado y redes neuronales, reduciendo las paradas de mantenimiento en un 30%.</p>
+        </div>
+        <div class="project">
+            <h3>Optimización de Almacenamiento en Data Lake</h3>
+            <p>Desarrollé una estrategia de particionamiento y compresión en un Data Lake en Azure, utilizando tecnologías como Data Lake Storage y Azure Synapse, mejorando la eficiencia en consultas en un 50%.</p>
+        </div>
+        <!-- Añadir más proyectos según sea necesario -->
+    </section>
+
+    <section id="skills">
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Big Data: Apache Hadoop, Apache Spark, Kafka</li>
+            <li>Machine Learning e IA: Scikit-Learn, TensorFlow, PyTorch</li>
+            <li>Bases de Datos: SQL, NoSQL (MongoDB, Cassandra)</li>
+            <li>Infraestructura en la Nube: Azure, AWS, Google Cloud Platform</li>
+            <li>Lenguajes de Programación: Python, SQL, Scala</li>
+            <li>Modelado y Análisis de Datos</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Estoy disponible para oportunidades de trabajo y colaboraciones en proyectos de datos e IA. Puedes contactarme a través de:</p>
+        <ul>
+            <li>Email: <a href="mailto:tucorreo@ejemplo.com">tucorreo@ejemplo.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/tuusuario">linkedin.com/in/tuusuario</a></li>
+            <li>GitHub: <a href="https://github.com/tuusuario">github.com/tuusuario</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Mi Nombre. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
